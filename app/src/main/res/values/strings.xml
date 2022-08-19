@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Filip Radovic</string>
+    <string name="my_bio">Hello, my name is Filip Radovic. I am a third-year student at the Faculty of Organizational Sciences. \n\nConsidering myself as a very ambitious and persistent person, I always tend to act responsible towards acquiring new knowledge. Being able to work both in a team and independently. I am eager to learn and progress in this period of life. Constantly seeking new challenges!</string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">Android robot image</string>
+</resources>
